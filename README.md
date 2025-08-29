@@ -33,9 +33,19 @@ See below screenshots of the configurations for the motherboard, processor, stor
 <img width="701" height="308" alt="image" src="https://github.com/user-attachments/assets/a72fee85-dca7-4129-a199-be32eb3dc436" />
 
 ## Network
-<img width="686" height="171" alt="image" src="https://github.com/user-attachments/assets/49cf1d79-2a2a-4f99-af02-c9c6d4bf55c4" />
+- Default NAT networking used for initial connectivity.
+- Configured static IP addresses to simulate internal network environments for penetration testing and monitoring.
+- Verified connectivity between VMs by pinging the Windows machine from Kali Linux on the same static IP network.
+
+<img width="686" height="171" alt="image" src="https://github.com/user-attachments/assets/49cf1d79-2a2a-4f99-af02-c9c6d4bf55c4" /> <br>
+<em>Windows 10 VM Configuration</em> <br><br>
+<img width="386" height="264" alt="image" src="https://github.com/user-attachments/assets/ab288b78-e5e5-480d-92eb-fe7895178bd3" />  <br>
+<em>Kali Linux VM Configuration</em>
 
 
+
+
+ 
 
 ## Key Learnings
 - Hands-on experience with Windows and Linux system administration.
